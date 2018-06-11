@@ -28,7 +28,7 @@ svg {
 }
 
 .text-copy:nth-child(1){
-	stroke: #4D163D;
+	stroke: #silver;
 	animation-delay: -1;
 }
 
