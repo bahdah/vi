@@ -10,6 +10,11 @@ body{
   font-family: Arial;
 }
 
+div {
+   word-wrap: break-word;
+   width: 500px;
+}
+
 svg {
     display: block;
     font: 10.5em 'Montserrat';
