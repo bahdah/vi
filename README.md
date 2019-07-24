@@ -1,2 +1,1 @@
 # vi
-https://visionintel.io/
